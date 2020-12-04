@@ -3,9 +3,9 @@
 	"client_secret" : "XXXXXXXXXX",
 	"display" : 100,
 	"sort" : "asc",
-	"item_list_file" : "Á¦Ç°¸®½ºÆ®.csv",
+	"item_list_file" : "ì œí’ˆë¦¬ìŠ¤íŠ¸.csv",
 	"email_sender" : "lpricescraper@gmail.com",
 	"app_passwd" : "XXXXXXXXXXXXXX",
-	"admin_email" : "°ü¸®ÀÚ@gmail.com",
+	"admin_email" : "ê´€ë¦¬ì@gmail.com",
 	"log_dir" : "log"
 }
