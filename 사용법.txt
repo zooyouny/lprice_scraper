@@ -1,0 +1,16 @@
+config.txt 설정
+
+* client_id, cleint_secret 는 Naver Open API를 사용하기 위한 ID 및 키 값
+* display : Naver에 검색 할 결과 수
+* sort :  "asc" - 오름차순,  "dsc" - 내림차순, "sim" - 유사도 순, "date" - 날짜순
+* item_list_file : 제품 목록이 담긴 csv 파일 명
+* email_sender : 이메일 보내는 사람
+* app_passwd : email_sender의 APP 비밀번호
+* admin_email : 작업 로그를 수신 할 이메일 주소
+* log_dir : 로그파일을 저장 할 경로
+
+실행 방법
+
+* cmd 창에서 lprice_scraper.exe 를 실행한다.
+* lprice_scraper.exe 가 있는 폴더에 config.txt와 csv 파일이 함께 존재 해야 한다.
+* 스케쥴러를 통해서 실행 가능하다.

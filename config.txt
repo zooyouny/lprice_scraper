@@ -1,0 +1,11 @@
+{
+	"client_id" : "XXXXXXXXXXXXXXXX",
+	"client_secret" : "XXXXXXXXXX",
+	"display" : 100,
+	"sort" : "asc",
+	"item_list_file" : "力前府胶飘.csv",
+	"email_sender" : "lpricescraper@gmail.com",
+	"app_passwd" : "XXXXXXXXXXXXXX",
+	"admin_email" : "包府磊@gmail.com",
+	"log_dir" : "log"
+}
